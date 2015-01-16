@@ -1,0 +1,5 @@
+c:\users\cx75\documents\visual studio 2012\Projects\AngularBootStrap\AngularBootStrap\bin\AngularBootStrap.dll
+c:\users\cx75\documents\visual studio 2012\Projects\AngularBootStrap\AngularBootStrap\bin\AngularBootStrap.pdb
+c:\users\cx75\documents\visual studio 2012\Projects\AngularBootStrap\AngularBootStrap\obj\Debug\AngularBootStrap.csprojResolveAssemblyReference.cache
+c:\users\cx75\documents\visual studio 2012\Projects\AngularBootStrap\AngularBootStrap\obj\Debug\AngularBootStrap.dll
+c:\users\cx75\documents\visual studio 2012\Projects\AngularBootStrap\AngularBootStrap\obj\Debug\AngularBootStrap.pdb
